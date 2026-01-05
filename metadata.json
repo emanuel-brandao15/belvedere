@@ -1,0 +1,7 @@
+{
+  "name": "Belvedere.AI",
+  "description": "Aplicação de suporte na decisão de compra de leite cru, análise histórica e futura das variáveis associadas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
